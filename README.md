@@ -1,6 +1,9 @@
 # hsh
 Shell in haskell!
 
+[![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)](https://haskell.org/)
+#
+
 How to install!?
 ``` bash
 sudo pacman -S git make ghc ghc-libs ghc-filesystem ghc-static
