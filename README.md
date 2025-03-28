@@ -1,0 +1,2 @@
+# hsh
+Shell in haskell!
