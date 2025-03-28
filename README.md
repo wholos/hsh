@@ -5,6 +5,12 @@ Shell in haskell!
 ![GitHub License](https://img.shields.io/github/license/ruzen42/harkpkg?style=for-the-badge)
 #
 
+UPD:
+```
+28.03.25 - Creating shell
+28.03.25 - Add config system
+```
+
 How to install!?
 ``` bash
 sudo pacman -S git make ghc ghc-libs ghc-filesystem ghc-static
