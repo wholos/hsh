@@ -2,6 +2,7 @@
 Shell in haskell!
 
 [![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)](https://haskell.org/)
+![GitHub License](https://img.shields.io/github/license/ruzen42/harkpkg?style=for-the-badge)
 #
 
 How to install!?
