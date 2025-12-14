@@ -1,5 +1,5 @@
 all:
-	@g++ src/main.cpp -o hsh
+	@gcc src/hsh.c -o hsh
 
 clean:
 	@rm hsh
