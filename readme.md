@@ -1,6 +1,6 @@
 # hsh
 **dependencies**
 ``` sh
-gcc
+nim
 make
 ```
