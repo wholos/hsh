@@ -1,5 +1,5 @@
 all:
-	@gcc src/hsh.c -o hsh
+	@nim -o=hsh src/hsh.nim
 
 clean:
 	@rm hsh
